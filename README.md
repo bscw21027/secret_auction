@@ -32,7 +32,7 @@ This project is licensed under the MIT License.
 
 # Acknowledgments
 - The Secret Auction system is inspired by the concept of secret bidding and aims to provide a fair and engaging auction experience.
-- Special thanks to the developers and contributors of the libraries and resources used in this project.
+- The project structure and code organization are inspired by best practices for Python projects.
 
 # Contact
 For any inquiries or support regarding Secret Auction, feel free to reach out at bsce21027@itu.edu.pk
